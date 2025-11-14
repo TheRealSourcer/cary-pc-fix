@@ -4,7 +4,6 @@ import { About } from './pages/about/about';
 import { Contact } from './pages/contact/contact';
 import { Privacy } from './pages/policies/privacy/privacy';
 import { Refund } from './pages/policies/refund/refund';
-import { Shipping } from './pages/policies/shipping/shipping';
 import { Terms } from './pages/policies/terms/terms';
 
 export const routes: Routes = [
@@ -13,6 +12,5 @@ export const routes: Routes = [
     { path: 'contact', component: Contact },
     { path: 'policies/privacy', component: Privacy},
     { path: 'policies/refund', component: Refund },
-    { path: 'policies/shipping', component: Shipping},
     { path: 'policies/terms', component: Terms},
 ];
