@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/": {},
+    "/about": {},
+    "/contact": {},
+    "/policies/privacy": {},
+    "/policies/refund": {},
+    "/policies/terms": {}
+  }
+}
